@@ -2,6 +2,7 @@ package com.example.listview;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 
 /**
  * Created by 郝俊谦 on 2016/7/26.
@@ -13,5 +14,8 @@ public class TestActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        Log.i(TAG, "onCreate: 第一次测试内容");
+        Log.e(TAG, "onCreate: 第一次测试内容");
+        Log.d(TAG, "onCreate: 第一次测试内容");
     }
 }
