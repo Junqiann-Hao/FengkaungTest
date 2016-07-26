@@ -15,7 +15,12 @@ public class TestActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         Log.i(TAG, "onCreate: 第一次测试内容");
-        Log.e(TAG, "onCreate: 第一次测试内容");
-        Log.d(TAG, "onCreate: 第一次测试内容");
+        Log.d(TAG, "第一次测试内容");
+
+    }
+
+    public void sayHello()
+    {
+        System.out.print("第二次增加的内容");
     }
 }
