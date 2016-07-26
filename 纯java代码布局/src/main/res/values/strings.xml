@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">纯java代码布局</string>
+    <string name="ok">ok</string>
+    <string name="hello">hello,Android ,</string>
+</resources>

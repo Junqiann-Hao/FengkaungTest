@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">人品计算器</string>
+    <string name="name">姓名</string>
+    <string name="nan">男</string>
+    <string name="nv">女</string>
+    <string name="jisuan">计算</string>
+</resources>
