@@ -3,10 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FengkaungTest.iml" filepath="$PROJECT_DIR$/FengkaungTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/franment/franment.iml" filepath="$PROJECT_DIR$/franment/franment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/人品计算器/人品计算器.iml" filepath="$PROJECT_DIR$/人品计算器/人品计算器.iml" />
       <module fileurl="file://$PROJECT_DIR$/使用xml来存储文件/使用xml来存储文件.iml" filepath="$PROJECT_DIR$/使用xml来存储文件/使用xml来存储文件.iml" />
       <module fileurl="file://$PROJECT_DIR$/录音机/录音机.iml" filepath="$PROJECT_DIR$/录音机/录音机.iml" />
+      <module fileurl="file://$PROJECT_DIR$/扫码分享/扫码分享.iml" filepath="$PROJECT_DIR$/扫码分享/扫码分享.iml" />
+      <module fileurl="file://$PROJECT_DIR$/撕衣服小案例/撕衣服小案例.iml" filepath="$PROJECT_DIR$/撕衣服小案例/撕衣服小案例.iml" />
       <module fileurl="file://$PROJECT_DIR$/文件读取/文件读取.iml" filepath="$PROJECT_DIR$/文件读取/文件读取.iml" />
       <module fileurl="file://$PROJECT_DIR$/电话拨号器/电话拨号器.iml" filepath="$PROJECT_DIR$/电话拨号器/电话拨号器.iml" />
       <module fileurl="file://$PROJECT_DIR$/电话监听器/电话监听器.iml" filepath="$PROJECT_DIR$/电话监听器/电话监听器.iml" />

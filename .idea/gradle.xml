@@ -9,10 +9,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/franment" />
+            <option value="$PROJECT_DIR$/helloworld" />
+            <option value="$PROJECT_DIR$/libzxing" />
             <option value="$PROJECT_DIR$/listview" />
             <option value="$PROJECT_DIR$/人品计算器" />
             <option value="$PROJECT_DIR$/使用xml来存储文件" />
             <option value="$PROJECT_DIR$/录音机" />
+            <option value="$PROJECT_DIR$/扫码分享" />
+            <option value="$PROJECT_DIR$/撕衣服小案例" />
             <option value="$PROJECT_DIR$/文件读取" />
             <option value="$PROJECT_DIR$/电话拨号器" />
             <option value="$PROJECT_DIR$/电话监听器" />
@@ -21,21 +26,7 @@
             <option value="$PROJECT_DIR$/跟随手指的小球" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/listview" />
-            <option value="$PROJECT_DIR$/人品计算器" />
-            <option value="$PROJECT_DIR$/使用xml来存储文件" />
-            <option value="$PROJECT_DIR$/录音机" />
-            <option value="$PROJECT_DIR$/文件读取" />
-            <option value="$PROJECT_DIR$/电话拨号器" />
-            <option value="$PROJECT_DIR$/电话监听器" />
-            <option value="$PROJECT_DIR$/简单图片浏览器" />
-            <option value="$PROJECT_DIR$/纯java代码布局" />
-            <option value="$PROJECT_DIR$/跟随手指的小球" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
