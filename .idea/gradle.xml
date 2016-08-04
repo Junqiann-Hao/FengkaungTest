@@ -5,14 +5,13 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/franment" />
-            <option value="$PROJECT_DIR$/helloworld" />
             <option value="$PROJECT_DIR$/libzxing" />
             <option value="$PROJECT_DIR$/listview" />
+            <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/人品计算器" />
             <option value="$PROJECT_DIR$/使用xml来存储文件" />
             <option value="$PROJECT_DIR$/录音机" />
@@ -24,6 +23,7 @@
             <option value="$PROJECT_DIR$/简单图片浏览器" />
             <option value="$PROJECT_DIR$/纯java代码布局" />
             <option value="$PROJECT_DIR$/跟随手指的小球" />
+            <option value="$PROJECT_DIR$/音乐示波器" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

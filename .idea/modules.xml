@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FengkaungTest.iml" filepath="$PROJECT_DIR$/FengkaungTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/franment/franment.iml" filepath="$PROJECT_DIR$/franment/franment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/人品计算器/人品计算器.iml" filepath="$PROJECT_DIR$/人品计算器/人品计算器.iml" />
       <module fileurl="file://$PROJECT_DIR$/使用xml来存储文件/使用xml来存储文件.iml" filepath="$PROJECT_DIR$/使用xml来存储文件/使用xml来存储文件.iml" />
       <module fileurl="file://$PROJECT_DIR$/录音机/录音机.iml" filepath="$PROJECT_DIR$/录音机/录音机.iml" />
@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/简单图片浏览器/简单图片浏览器.iml" filepath="$PROJECT_DIR$/简单图片浏览器/简单图片浏览器.iml" />
       <module fileurl="file://$PROJECT_DIR$/纯java代码布局/纯java代码布局.iml" filepath="$PROJECT_DIR$/纯java代码布局/纯java代码布局.iml" />
       <module fileurl="file://$PROJECT_DIR$/跟随手指的小球/跟随手指的小球.iml" filepath="$PROJECT_DIR$/跟随手指的小球/跟随手指的小球.iml" />
+      <module fileurl="file://$PROJECT_DIR$/音乐示波器/音乐示波器.iml" filepath="$PROJECT_DIR$/音乐示波器/音乐示波器.iml" />
     </modules>
   </component>
 </project>
