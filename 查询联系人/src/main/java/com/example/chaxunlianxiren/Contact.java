@@ -1,5 +1,8 @@
 package com.example.chaxunlianxiren;
 
+/**
+ * 联系人的javabean对象
+ */
 public class Contact {
 
 	private String id;
