@@ -12,12 +12,14 @@
             <option value="$PROJECT_DIR$/libzxing" />
             <option value="$PROJECT_DIR$/listview" />
             <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/util" />
             <option value="$PROJECT_DIR$/人品计算器" />
             <option value="$PROJECT_DIR$/使用xml来存储文件" />
             <option value="$PROJECT_DIR$/录音机" />
             <option value="$PROJECT_DIR$/扫码分享" />
             <option value="$PROJECT_DIR$/撕衣服小案例" />
             <option value="$PROJECT_DIR$/文件读取" />
+            <option value="$PROJECT_DIR$/查询联系人" />
             <option value="$PROJECT_DIR$/电话拨号器" />
             <option value="$PROJECT_DIR$/电话监听器" />
             <option value="$PROJECT_DIR$/简单图片浏览器" />
