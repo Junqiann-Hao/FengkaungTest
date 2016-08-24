@@ -7,9 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
       <module fileurl="file://$PROJECT_DIR$/人品计算器/人品计算器.iml" filepath="$PROJECT_DIR$/人品计算器/人品计算器.iml" />
       <module fileurl="file://$PROJECT_DIR$/使用xml来存储文件/使用xml来存储文件.iml" filepath="$PROJECT_DIR$/使用xml来存储文件/使用xml来存储文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多击事件/多击事件.iml" filepath="$PROJECT_DIR$/多击事件/多击事件.iml" />
       <module fileurl="file://$PROJECT_DIR$/录音机/录音机.iml" filepath="$PROJECT_DIR$/录音机/录音机.iml" />
       <module fileurl="file://$PROJECT_DIR$/扫码分享/扫码分享.iml" filepath="$PROJECT_DIR$/扫码分享/扫码分享.iml" />
       <module fileurl="file://$PROJECT_DIR$/撕衣服小案例/撕衣服小案例.iml" filepath="$PROJECT_DIR$/撕衣服小案例/撕衣服小案例.iml" />
