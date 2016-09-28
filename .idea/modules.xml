@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qq登录测试/qq登录测试.iml" filepath="$PROJECT_DIR$/qq登录测试/qq登录测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket/websocket.iml" filepath="$PROJECT_DIR$/websocket/websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutilstest/xutilstest.iml" filepath="$PROJECT_DIR$/xutilstest/xutilstest.iml" />
       <module fileurl="file://$PROJECT_DIR$/人品计算器/人品计算器.iml" filepath="$PROJECT_DIR$/人品计算器/人品计算器.iml" />
       <module fileurl="file://$PROJECT_DIR$/使用xml来存储文件/使用xml来存储文件.iml" filepath="$PROJECT_DIR$/使用xml来存储文件/使用xml来存储文件.iml" />
       <module fileurl="file://$PROJECT_DIR$/多击事件/多击事件.iml" filepath="$PROJECT_DIR$/多击事件/多击事件.iml" />

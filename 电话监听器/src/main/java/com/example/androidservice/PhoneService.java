@@ -56,7 +56,7 @@ public class PhoneService extends Service {
                     if (recorder!=null) {
                         Log.i(TAG, "onCallStateChanged: 停止录音");
                         recorder.stop();  //停止录
-//                        recorder.reset();   // You can reuse the object by going back to setAudioSource() step
+                        recorder.reset();   // You can reuse the object by going back to setAudioSource() step
                         recorder.release(); // Now the object cannot be reused
 
                     }
@@ -65,7 +65,7 @@ public class PhoneService extends Service {
                     break;
 
                 case TelephonyManager.CALL_STATE_OFFHOOK://接听状态
-                    Log.i(TAG, "onCallStateChanged: 开始录");
+                    Log.i(TAG, "onCallStateChanged: 开始录音");
                     //开启录
                     recorder.start();   // Recording is now started
 
@@ -77,7 +77,7 @@ public class PhoneService extends Service {
                     //[1]获取MediaRecorder类的实例
                     recorder = new MediaRecorder();
                     //[2]设置音频的来源
-                    recorder.setAudioSource(MediaRecorder.AudioSource.VOICE_CALL); //zet
+                    recorder.setAudioSource(MediaRecorder.AudioSource.VOICE_CALL);
                     //[3]设置音频的输出格式
                     recorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
                     //[4]设置音频的编码方式
@@ -85,16 +85,20 @@ public class PhoneService extends Service {
                     //[5]保存的文件路径
                     String path = Environment.getExternalStorageDirectory().getPath();
                     Calendar cal = Calendar.getInstance();
-                    String day = ""+cal.get(Calendar.YEAR) + cal.get(Calendar.MONTH) + cal.get(Calendar.DATE) + cal.get(Calendar.HOUR_OF_DAY) + cal.get(Calendar.MINUTE) + cal.get(Calendar.SECOND);
+                    String day = ""+cal.get(Calendar.YEAR) + cal.get(Calendar.MONTH) + cal.get(Calendar.DATE)
+                            + cal.get(Calendar.HOUR_OF_DAY) + cal.get(Calendar.MINUTE) + cal.get(Calendar.SECOND);
                     String data = path + "/systemservice/" + day + ".3gp";
                     Log.i(TAG, "onCallStateChanged: 文件路径"+ data);
                     //[5]准备录音
                     recorder.setOutputFile(data);
                     try {
                         recorder.prepare();
+                        Log.i(TAG, "onCallStateChanged: 录音机准备完成");
                     } catch (IllegalStateException | IOException e) {
+                        Log.i(TAG, "onCallStateChanged: 录音机准备异常");
                         e.printStackTrace();
                     }
+
 
                     break;
             }

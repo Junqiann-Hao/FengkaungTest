@@ -6,6 +6,7 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.CAPTURE_AUDIO_OUTPUT" />
 
     <application
         android:allowBackup="true"
@@ -16,7 +17,9 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-                <data android:host="AuthActivity" android:scheme="com.android.example" />
+                <data
+                    android:host="AuthActivity"
+                    android:scheme="com.android.example" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
